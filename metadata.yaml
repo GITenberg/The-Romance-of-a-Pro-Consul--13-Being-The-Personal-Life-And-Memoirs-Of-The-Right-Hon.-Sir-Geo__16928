@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7025'
     url: http://www.gutenberg.org/2009/agents/7025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16928#The-Romance-of-a-Pro-Consul--13-Being-The-Personal-Life-And-Memoirs-Of-The-Right-Hon.-Sir-Geo_
 gutenberg_issued: '2005-10-23'
 gutenberg_type: Text
 identifiers:
